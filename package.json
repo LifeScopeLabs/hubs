@@ -23,9 +23,9 @@
     "test": "npm run lint && npm run build"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.2",
-    "@fortawesome/free-solid-svg-icons": "^5.2.0",
-    "@fortawesome/react-fontawesome": "^0.1.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
     "aframe": "github:mozillareality/aframe#bugfix/oculus-go-controller-reconnect-pre-e0c8ff7",
     "aframe-billboard-component": "^1.0.0",
     "aframe-inspector": "^0.8.3",
